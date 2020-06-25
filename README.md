@@ -7,4 +7,9 @@ This course provides a basic understanding of how computers work. Starting from 
 
 Topics covered -
 
-C Programming, computer systems organization, machine language and assembly programming, machine representation of data and instructions, computer arithmetic, basic logic design, the CPU and instruction interpretation, memory organization, peripherals and I/O.
+- C Programming
+- Computer systems organization
+- Machine language and assembly programming
+- Machine representation of data and instructions
+- Computer arithmetic, basic logic design
+- CPU and instruction interpretation, memory organization, peripherals and I/O.
