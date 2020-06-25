@@ -1,4 +1,4 @@
-# CS250-Computer-Architecture
+# CS250: Computer Architecture
 Code from assignments and projects related to the introductory computer architecture course at Duke University.
 
 Course Description -
